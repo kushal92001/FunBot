@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728626876206",
+    "project_id": "diarybot-8d78c",
+    "storage_bucket": "diarybot-8d78c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728626876206:android:3b43e1a83ad7b3679134bf",
+        "android_client_info": {
+          "package_name": "com.example.diarybot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728626876206-ga9gd7n1amufobj9dsm5jbe4u2aotskk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoXT5DZlGu3O_ZZFcJ9p4-TFpgeOusKNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728626876206-ga9gd7n1amufobj9dsm5jbe4u2aotskk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
